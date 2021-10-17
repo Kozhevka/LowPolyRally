@@ -5,10 +5,30 @@ using UnityEngine;
 [RequireComponent(typeof (Rigidbody))]
 public class CarBehaviour : MonoBehaviour
 {
-    [SerializeField] private Transform[] wheelsPosition = new Transform[4];
-
+    [Header("Wheels")]
     [SerializeField] private WheelValuesInCarBoby[] frontWheels = new WheelValuesInCarBoby[2];
-    [SerializeField] private WheelValuesInCarBoby[] backWheesl = new WheelValuesInCarBoby[2];
+    [SerializeField] private WheelValuesInCarBoby[] backWheels = new WheelValuesInCarBoby[2];
 
+    [Header("Lights")]
+    [SerializeField] private GameObject[] frontLights;
+    [SerializeField] private GameObject[] backLights;
+
+
+    public void LoadWheels(WheelBehavoiur wheelBehavoiur, Transform parent)
+    {
+        foreach (var wheel in frontWheels)
+        {
+            WheelBehavoiur wheelTransform = Instantiate(wheelBehavoiur, wheel.TargetPosition);
+            //wheelTransform.transform.SetParent(parent);
+            //wheelTransform.transform.localRotation = Quaternion.Euler(Vector3.zero);
+        }
+
+        foreach (var wheel in backWheels)
+        {
+            WheelBehavoiur wheelTransform = Instantiate(wheelBehavoiur, wheel.TargetPosition);
+            //wheelTransform.transform.SetParent(parent);
+            //wheelTransform.transform.localRotation = Quaternion.Euler(Vector3.zero);
+        }
+    }
     
 }

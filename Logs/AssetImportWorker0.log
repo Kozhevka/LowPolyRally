@@ -181,3 +181,2148 @@ Total: 2.234800 ms (FindLiveObjects: 0.219700 ms CreateObjectMapping: 0.066300 m
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 5050.084758 seconds.
+  path: Assets/LPRCore/Scripts/EngineSetup
+  artifactKey: Guid(ded39fcf8d795d94484365db6eb2721b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/EngineSetup using Guid(ded39fcf8d795d94484365db6eb2721b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e9ad1e415c0aaf7728564c26ae83df') in 0.014143 seconds
+  Import took 0.036670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.814981 seconds.
+  path: Assets/LPRCore/Scripts/EngineSetup/Cyl.cs
+  artifactKey: Guid(0b4efee2a9e0b244ab952e0426515efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/EngineSetup/Cyl.cs using Guid(0b4efee2a9e0b244ab952e0426515efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '418d3801e02e7671c2cef3c6225160f7') in 0.019929 seconds
+  Import took 0.030269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.997215 seconds.
+  path: Assets/LPRCore/Scripts/EngineSetup/CylinderEnum.cs
+  artifactKey: Guid(0b4efee2a9e0b244ab952e0426515efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/EngineSetup/CylinderEnum.cs using Guid(0b4efee2a9e0b244ab952e0426515efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a935dc27f493eb7d860376c5f29aa9f') in 0.010358 seconds
+  Import took 0.030214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.220490 seconds.
+  path: Assets/LPRCore/Scripts/EngineSetup/CylinderEnum.cs
+  artifactKey: Guid(0b4efee2a9e0b244ab952e0426515efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/EngineSetup/CylinderEnum.cs using Guid(0b4efee2a9e0b244ab952e0426515efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed492df397218ef0a08f8ccde21d86f') in 0.010096 seconds
+  Import took 0.023785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.718752 seconds.
+  path: Assets/LPRCore/Scripts/EngineSetup/EngineDataStruct.cs
+  artifactKey: Guid(7b2b262cc5958b04d96fce61e45025a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/EngineSetup/EngineDataStruct.cs using Guid(7b2b262cc5958b04d96fce61e45025a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8efdd74fd0340562676c5c9462373b00') in 0.017754 seconds
+  Import took 0.051064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1960.266293 seconds.
+  path: Assets/LPRCore/Scripts/EngineSetup/EngineDataStruct.cs
+  artifactKey: Guid(7b2b262cc5958b04d96fce61e45025a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/EngineSetup/EngineDataStruct.cs using Guid(7b2b262cc5958b04d96fce61e45025a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c170a1e7185d4087da3e401441f92f8e') in 0.006695 seconds
+  Import took 0.053992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004557 seconds.
+  path: Assets/LPRCore/Scripts/EngineSetup/EngineDataStruct.cs
+  artifactKey: Guid(7b2b262cc5958b04d96fce61e45025a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/EngineSetup/EngineDataStruct.cs using Guid(7b2b262cc5958b04d96fce61e45025a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c170a1e7185d4087da3e401441f92f8e') in 0.003244 seconds
+  Import took 0.013876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.503867 seconds.
+  path: Assets/TerrainData_0a5c3842-1db8-4ad7-be33-057fbb5464dc.asset
+  artifactKey: Guid(2094c5d1e0d8ff34ba97661a641c0417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_0a5c3842-1db8-4ad7-be33-057fbb5464dc.asset using Guid(2094c5d1e0d8ff34ba97661a641c0417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f54986075d284e025e80ead40bcc076') in 0.106282 seconds
+  Import took 0.132777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/TerrainData_8ba35fdc-a821-4049-988f-ef0aecd4c81d.asset
+  artifactKey: Guid(2968a9d65df9a494684b0f66a39edc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_8ba35fdc-a821-4049-988f-ef0aecd4c81d.asset using Guid(2968a9d65df9a494684b0f66a39edc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d947ceda13cd9e40ac7df9c4d7962a9') in 0.036366 seconds
+  Import took 0.063422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/TerrainData_6abac7da-82e0-434a-9373-4f60b4a0a13e.asset
+  artifactKey: Guid(30cfc0e951fdf694daf583e1a345d42b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_6abac7da-82e0-434a-9373-4f60b4a0a13e.asset using Guid(30cfc0e951fdf694daf583e1a345d42b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd84cd3a539c9bcc95ea1fe1722464e') in 0.044748 seconds
+  Import took 0.063063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/TerrainData_7b11968e-c3e6-4e38-804e-4c1b4dee4c6d.asset
+  artifactKey: Guid(951a618a58a39ec4f80d1146a2e8b0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_7b11968e-c3e6-4e38-804e-4c1b4dee4c6d.asset using Guid(951a618a58a39ec4f80d1146a2e8b0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43947844dcec29f36e68f200724c2ab8') in 0.072452 seconds
+  Import took 0.091392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/TerrainData_9e92ac54-c259-4cb5-aad4-125865b4f2ed.asset
+  artifactKey: Guid(eb1b85fa1acb780458bff66684d2811d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_9e92ac54-c259-4cb5-aad4-125865b4f2ed.asset using Guid(eb1b85fa1acb780458bff66684d2811d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dac7853b4fbbb417ff915a27671ffa63') in 0.045508 seconds
+  Import took 0.064066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/TerrainData_0d3c1125-e0c6-4703-bb4e-47cde2bb63be.asset
+  artifactKey: Guid(abd8ca713a789ad498e1b256bf9011c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_0d3c1125-e0c6-4703-bb4e-47cde2bb63be.asset using Guid(abd8ca713a789ad498e1b256bf9011c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7ffafd31477a6abf599e58eb9f5c914') in 0.048097 seconds
+  Import took 0.062719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/TerrainData_2e0ea46a-f697-4599-8df9-1a68ead137bd.asset
+  artifactKey: Guid(8913ea3165cfd714d9372c9c37915ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_2e0ea46a-f697-4599-8df9-1a68ead137bd.asset using Guid(8913ea3165cfd714d9372c9c37915ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f6c07407e35d1c023416c4f493fd0b') in 0.034406 seconds
+  Import took 0.067345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/TerrainData_5de02d5c-fc4a-4e0c-985e-1891a6b48054.asset
+  artifactKey: Guid(c539925d9b874f84e8c8c29807ef4e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_5de02d5c-fc4a-4e0c-985e-1891a6b48054.asset using Guid(c539925d9b874f84e8c8c29807ef4e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d51cb7ca1a4cdaca21c93f5c183827') in 0.032648 seconds
+  Import took 0.036034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/TerrainData_6f8e2d11-a866-4f27-af23-9dd34e3c5bef.asset
+  artifactKey: Guid(43fa7f35b079857459f954ff86f8b509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_6f8e2d11-a866-4f27-af23-9dd34e3c5bef.asset using Guid(43fa7f35b079857459f954ff86f8b509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f25c3ff47266e709389d4117e8b436d') in 0.026310 seconds
+  Import took 0.048311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/TerrainData_1ad4c447-4637-4870-970a-3efd7ba736fe.asset
+  artifactKey: Guid(b0306a28487b4214182bb88f4f813425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_1ad4c447-4637-4870-970a-3efd7ba736fe.asset using Guid(b0306a28487b4214182bb88f4f813425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33919c637f735ae1d304b4f4d0632cc7') in 0.038182 seconds
+  Import took 0.042138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/TerrainData_01e0e3ad-5460-4f34-b760-5035fc1e5978.asset
+  artifactKey: Guid(18371fb920b0c1b4b87978741df42d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_01e0e3ad-5460-4f34-b760-5035fc1e5978.asset using Guid(18371fb920b0c1b4b87978741df42d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f6e263906ddfc61167d9dfdaa597e12') in 0.025826 seconds
+  Import took 0.057294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/TerrainData_3aae52b6-ded3-434b-8233-a49113522814.asset
+  artifactKey: Guid(a4ffb87a6dad636439455d0a4aa11586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_3aae52b6-ded3-434b-8233-a49113522814.asset using Guid(a4ffb87a6dad636439455d0a4aa11586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aeaca5910f4e61bf9b528d604cdf405') in 0.039808 seconds
+  Import took 0.054124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/TerrainData_7dbe461e-f505-4157-ba0e-0a0a8dadc84f.asset
+  artifactKey: Guid(ac8449c3c91222f43a8ab9e53cfb0286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_7dbe461e-f505-4157-ba0e-0a0a8dadc84f.asset using Guid(ac8449c3c91222f43a8ab9e53cfb0286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51feb46f00cdc226d27ce556c42a3bdc') in 0.036646 seconds
+  Import took 0.040491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/TerrainData_3d078b88-18a5-4026-8783-8e30f8310fbe.asset
+  artifactKey: Guid(df09e2483be6676468664eae8b4d0fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_3d078b88-18a5-4026-8783-8e30f8310fbe.asset using Guid(df09e2483be6676468664eae8b4d0fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a41e3c5e13f141dd628186df158996') in 0.034877 seconds
+  Import took 0.049791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/TerrainData_3d425db4-e047-4269-bcf0-65645faaf25b.asset
+  artifactKey: Guid(ac3b03710cfea0c4d9be62b272d801c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_3d425db4-e047-4269-bcf0-65645faaf25b.asset using Guid(ac3b03710cfea0c4d9be62b272d801c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7a7b09974989e3c5c4ed1063bd964b') in 0.031873 seconds
+  Import took 0.048712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/TerrainData_8c1be7a7-6891-41d5-b806-ebf59f0b9792.asset
+  artifactKey: Guid(a999c3c99ba155145877ae1bd21eed9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_8c1be7a7-6891-41d5-b806-ebf59f0b9792.asset using Guid(a999c3c99ba155145877ae1bd21eed9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f5c5a5d3cf93f42550a3894d7ded9e') in 0.037873 seconds
+  Import took 0.058781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/TerrainData_8b4eb10c-fc1a-4491-9f27-03ccfdafc7fe.asset
+  artifactKey: Guid(eaf823580bd3b524d8ec60d18a3eb996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_8b4eb10c-fc1a-4491-9f27-03ccfdafc7fe.asset using Guid(eaf823580bd3b524d8ec60d18a3eb996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c873f96824ef8c78b0c226d2483f7980') in 0.028597 seconds
+  Import took 0.042236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/TerrainData_8a7254c6-de1b-4e13-b473-f280b8407df9.asset
+  artifactKey: Guid(7eadd26c45436a548a9e7a002070beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_8a7254c6-de1b-4e13-b473-f280b8407df9.asset using Guid(7eadd26c45436a548a9e7a002070beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e9bbae23eafe8261f2c6d8c98629a3') in 0.038567 seconds
+  Import took 0.064258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/TerrainData_8c4bca65-693b-4177-bc05-2aed2ce902f6.asset
+  artifactKey: Guid(a3deab82f91ea4d4c91e58aeb02dbd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_8c4bca65-693b-4177-bc05-2aed2ce902f6.asset using Guid(a3deab82f91ea4d4c91e58aeb02dbd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495bad8f7da79dec5d27c44ff4d84bca') in 0.035393 seconds
+  Import took 0.058214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/TerrainData_0c77eb5a-7f2c-404d-b38b-ef84b9556ae9.asset
+  artifactKey: Guid(990f8fc850f77d64eb5244a12d6dc5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_0c77eb5a-7f2c-404d-b38b-ef84b9556ae9.asset using Guid(990f8fc850f77d64eb5244a12d6dc5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0672f1d62cce0a86746eb16484c0ab') in 0.030204 seconds
+  Import took 0.033489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/TerrainData_12faa781-c705-4f10-8e9d-cec9d4d781f5.asset
+  artifactKey: Guid(600eae584b2694140a52f2872b2f1b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_12faa781-c705-4f10-8e9d-cec9d4d781f5.asset using Guid(600eae584b2694140a52f2872b2f1b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94bd30bb52924a145f6ca3d94130851') in 0.044173 seconds
+  Import took 0.061844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/TerrainData_9e0dfffb-78a9-4afa-8163-126a3a54b5bb.asset
+  artifactKey: Guid(9318f99adf5df48449e578e00aa808ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_9e0dfffb-78a9-4afa-8163-126a3a54b5bb.asset using Guid(9318f99adf5df48449e578e00aa808ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36fa61177c8580050d2bbb914aeb8723') in 0.033342 seconds
+  Import took 0.046144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/TerrainData_9ede0127-aa41-443c-9c76-5da0ec370f66.asset
+  artifactKey: Guid(a266980e4b37cf440beb85d3a2ded740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_9ede0127-aa41-443c-9c76-5da0ec370f66.asset using Guid(a266980e4b37cf440beb85d3a2ded740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5164d147afe36ddb157cecea7948d7f') in 0.018110 seconds
+  Import took 0.021381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/TerrainData_3a70b6d8-c59a-404e-b5c1-6d90a91205d1.asset
+  artifactKey: Guid(4f1fef3ae59ccec4d8feaf433feb7dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_3a70b6d8-c59a-404e-b5c1-6d90a91205d1.asset using Guid(4f1fef3ae59ccec4d8feaf433feb7dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76549e07425da3c28bc1bbd831ade4d6') in 0.035059 seconds
+  Import took 0.038136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/TerrainData_5befab51-ffc6-4f2d-8d99-74110683d236.asset
+  artifactKey: Guid(972744fc5c4755943b495c85c3d90e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_5befab51-ffc6-4f2d-8d99-74110683d236.asset using Guid(972744fc5c4755943b495c85c3d90e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32957cc3e222d15ace965ba2a0feddb') in 0.037664 seconds
+  Import took 0.055260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/TerrainData_9ca8bc6b-341b-4c23-8051-a288d48eee6c.asset
+  artifactKey: Guid(8ff43acee7a3ba643a326994b7c1dbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_9ca8bc6b-341b-4c23-8051-a288d48eee6c.asset using Guid(8ff43acee7a3ba643a326994b7c1dbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34b3e4c5504b35bb1fd6bec732bce30') in 0.042203 seconds
+  Import took 0.062122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/TerrainData_6e3cbbae-5e9a-44d6-8919-7b51c736a496.asset
+  artifactKey: Guid(706cd45c52ba5e242b658e67794c4e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_6e3cbbae-5e9a-44d6-8919-7b51c736a496.asset using Guid(706cd45c52ba5e242b658e67794c4e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be0abd9b4b9c40a2c76dddecf3dd6e5') in 0.032944 seconds
+  Import took 0.051419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/TerrainData_1d40b1ee-78b4-4aeb-bcf3-c9f75638ce75.asset
+  artifactKey: Guid(f7ba094c0f7901143bc32712e70a6b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_1d40b1ee-78b4-4aeb-bcf3-c9f75638ce75.asset using Guid(f7ba094c0f7901143bc32712e70a6b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7a828d391f3fe3a94601d1e80099d5') in 0.041404 seconds
+  Import took 0.057831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/TerrainData_8bd38abb-bc03-474b-a218-b696caddba44.asset
+  artifactKey: Guid(0d165c1c078907540b9741691500d289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_8bd38abb-bc03-474b-a218-b696caddba44.asset using Guid(0d165c1c078907540b9741691500d289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c99e2f96b6025a68b5f94a607bea6f7') in 0.035130 seconds
+  Import took 0.049879 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000790 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.242 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2014.
+Total: 2.487400 ms (FindLiveObjects: 0.166700 ms CreateObjectMapping: 0.060700 ms MarkObjects: 2.226400 ms  DeleteObjects: 0.032100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 207.258664 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine_01.wav
+  artifactKey: Guid(255e35ba5f00d5c4c9bca34e67805bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine_01.wav using Guid(255e35ba5f00d5c4c9bca34e67805bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546790c5c78186a5c35c51744ddb6266') in 0.132210 seconds
+  Import took 0.150398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine_07.wav
+  artifactKey: Guid(3cddfda2f0beae3468a7946e77f49cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine_07.wav using Guid(3cddfda2f0beae3468a7946e77f49cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5694b99c2818f25bc3f7e3d925e7b38') in 0.028419 seconds
+  Import took 0.046238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine_03.wav
+  artifactKey: Guid(c9a5712f00b71b2439c5f08cf848e563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine_03.wav using Guid(c9a5712f00b71b2439c5f08cf848e563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25c21c9bb61d9ca57fc67b477ac80307') in 0.022182 seconds
+  Import took 0.038828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine_06.wav
+  artifactKey: Guid(771e9991cff82b548802b39c2a992a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine_06.wav using Guid(771e9991cff82b548802b39c2a992a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3eccbdaaf45b4e8c16d72abdd8bb83') in 0.027887 seconds
+  Import took 0.041593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine_02.wav
+  artifactKey: Guid(ee7002bfc8b127c49a5b8002acad8550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine_02.wav using Guid(ee7002bfc8b127c49a5b8002acad8550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d2433699deb0c9b807e3484e3db53a') in 0.025150 seconds
+  Import took 0.028892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine_05.wav
+  artifactKey: Guid(d50355d1e8e65e5418dbedc87266397c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine_05.wav using Guid(d50355d1e8e65e5418dbedc87266397c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c133b473ee4ce0e986d47e4377248e') in 0.057917 seconds
+  Import took 0.080643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine_04.wav
+  artifactKey: Guid(42d43102e2635644691cd4243319483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine_04.wav using Guid(42d43102e2635644691cd4243319483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0a96ebc3e0bf30711a72a1694402d4') in 0.019537 seconds
+  Import took 0.026120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine_08.wav
+  artifactKey: Guid(2f0dbb876bb4c8749bfd5617f82bb5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine_08.wav using Guid(2f0dbb876bb4c8749bfd5617f82bb5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaefc9b123d34abd833b7bf7e3776f15') in 0.018771 seconds
+  Import took 0.033913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine_01.wav
+  artifactKey: Guid(255e35ba5f00d5c4c9bca34e67805bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine_01.wav using Guid(255e35ba5f00d5c4c9bca34e67805bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546790c5c78186a5c35c51744ddb6266') in 0.013149 seconds
+  Import took 0.016034 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000784 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.250 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.6 MB.
+System memory in use after: 96.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2026.
+Total: 1.941300 ms (FindLiveObjects: 0.161900 ms CreateObjectMapping: 0.056500 ms MarkObjects: 1.697600 ms  DeleteObjects: 0.023800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.443 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.6 MB.
+System memory in use after: 96.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2029.
+Total: 3.975400 ms (FindLiveObjects: 0.172200 ms CreateObjectMapping: 0.059700 ms MarkObjects: 3.722500 ms  DeleteObjects: 0.019000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000766 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.6 MB.
+System memory in use after: 96.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2032.
+Total: 2.043700 ms (FindLiveObjects: 0.174500 ms CreateObjectMapping: 0.058500 ms MarkObjects: 1.793400 ms  DeleteObjects: 0.015600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000747 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.290 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.6 MB.
+System memory in use after: 96.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2035.
+Total: 1.949800 ms (FindLiveObjects: 0.175400 ms CreateObjectMapping: 0.058800 ms MarkObjects: 1.698200 ms  DeleteObjects: 0.016000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 439.372513 seconds.
+  path: Assets/LPRCore/ScriptableObjects
+  artifactKey: Guid(d163751769d3c42499808404c0ba48ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects using Guid(d163751769d3c42499808404c0ba48ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21093d1efc8e828af0cf8367fad6273d') in 0.013740 seconds
+  Import took 0.017200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.486761 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines
+  artifactKey: Guid(e0c7b03447aa18c4580312da239c036f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines using Guid(e0c7b03447aa18c4580312da239c036f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa8d24d3249b4024ef83957cd730cdc') in 0.009449 seconds
+  Import took 0.018787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.201817 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType.asset
+  artifactKey: Guid(08002d73750dfad4cb3bbaec40624b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType.asset using Guid(08002d73750dfad4cb3bbaec40624b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acb89ca9255a5454fc77a13669273549') in 0.019205 seconds
+  Import took 0.049075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.481752 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 1.asset
+  artifactKey: Guid(818f8ea7646d2314cb093de249d0187c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 1.asset using Guid(818f8ea7646d2314cb093de249d0187c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b2bc05460a532553ed9558d632fe45') in 0.013616 seconds
+  Import took 0.025936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.423766 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 1.asset
+  artifactKey: Guid(818f8ea7646d2314cb093de249d0187c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 1.asset using Guid(818f8ea7646d2314cb093de249d0187c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00799f39530a92c68a1935fc6f79318b') in 0.004445 seconds
+  Import took 0.029510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 2.asset
+  artifactKey: Guid(1eb75623c548d3041a908e2e14de0353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 2.asset using Guid(1eb75623c548d3041a908e2e14de0353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a90f5c3a8d086137c4197b3cd50ea3') in 0.009666 seconds
+  Import took 0.013863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.252915 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 2.asset
+  artifactKey: Guid(1eb75623c548d3041a908e2e14de0353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 2.asset using Guid(1eb75623c548d3041a908e2e14de0353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c65df354faabec4785f2d7418441d9') in 0.007499 seconds
+  Import took 0.014903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 3.asset
+  artifactKey: Guid(16fec573e52aa45439860959410fb5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 3.asset using Guid(16fec573e52aa45439860959410fb5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d268edcbca1a38fb4f586c755567ac2') in 0.012869 seconds
+  Import took 0.016332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.245878 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 3.asset
+  artifactKey: Guid(16fec573e52aa45439860959410fb5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 3.asset using Guid(16fec573e52aa45439860959410fb5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a94fe9d41204ba9f969a33d9078885b') in 0.004198 seconds
+  Import took 0.016790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001159 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 4.asset
+  artifactKey: Guid(1d55b4cfaed67934d8535d562f3bffcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 4.asset using Guid(1d55b4cfaed67934d8535d562f3bffcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e0dc9192c0ace69480e9d3d13b90069') in 0.009828 seconds
+  Import took 0.013257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014765 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 4.asset
+  artifactKey: Guid(1d55b4cfaed67934d8535d562f3bffcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 4.asset using Guid(1d55b4cfaed67934d8535d562f3bffcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e0dc9192c0ace69480e9d3d13b90069') in 0.004871 seconds
+  Import took 0.008526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.211308 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 4.asset
+  artifactKey: Guid(1d55b4cfaed67934d8535d562f3bffcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 4.asset using Guid(1d55b4cfaed67934d8535d562f3bffcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e169daef3052b93d1bb7aac989a07765') in 0.005918 seconds
+  Import took 0.012211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 5.asset
+  artifactKey: Guid(b95f627e7c445ba4fa2a1a4dede97f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 5.asset using Guid(b95f627e7c445ba4fa2a1a4dede97f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd1dc21455a2fc58da54b94bdb46461') in 0.012825 seconds
+  Import took 0.019295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005574 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 5.asset
+  artifactKey: Guid(b95f627e7c445ba4fa2a1a4dede97f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 5.asset using Guid(b95f627e7c445ba4fa2a1a4dede97f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd1dc21455a2fc58da54b94bdb46461') in 0.004308 seconds
+  Import took 0.007535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.172498 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 5.asset
+  artifactKey: Guid(b95f627e7c445ba4fa2a1a4dede97f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 5.asset using Guid(b95f627e7c445ba4fa2a1a4dede97f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e189be3f8f758542f432d5b511fd283f') in 0.004889 seconds
+  Import took 0.008282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 6.asset
+  artifactKey: Guid(120a34d7a4c6fe54a82a4ea04aa48bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/DataFiles/ScriptableObjects/ColorSO 6.asset using Guid(120a34d7a4c6fe54a82a4ea04aa48bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac889f80fb8e4335fa4945846ce62964') in 0.017008 seconds
+  Import took 0.021301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.838737 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType.asset
+  artifactKey: Guid(08002d73750dfad4cb3bbaec40624b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType.asset using Guid(08002d73750dfad4cb3bbaec40624b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '251fec568039946f48b0f4ec79317f4b') in 0.003301 seconds
+  Import took 0.006619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.646416 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 1.asset
+  artifactKey: Guid(e6a82bcb8b282b14c8eff6c39aa27519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 1.asset using Guid(e6a82bcb8b282b14c8eff6c39aa27519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd157aa182bfa2d74a438e033ea8af6b3') in 0.010803 seconds
+  Import took 0.021972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType.asset
+  artifactKey: Guid(08002d73750dfad4cb3bbaec40624b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType.asset using Guid(08002d73750dfad4cb3bbaec40624b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b149416392f0153381d4d680c71af06') in 0.005434 seconds
+  Import took 0.015402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 1.asset
+  artifactKey: Guid(e6a82bcb8b282b14c8eff6c39aa27519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 1.asset using Guid(e6a82bcb8b282b14c8eff6c39aa27519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd157aa182bfa2d74a438e033ea8af6b3') in 0.003821 seconds
+  Import took 0.009059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.391160 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 1.asset
+  artifactKey: Guid(e6a82bcb8b282b14c8eff6c39aa27519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 1.asset using Guid(e6a82bcb8b282b14c8eff6c39aa27519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd882c4acc2212ed2ea0f2626244ce3fc') in 0.003721 seconds
+  Import took 0.008575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 2.asset
+  artifactKey: Guid(a4d0d68e0c719c84783b4769a04735ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 2.asset using Guid(a4d0d68e0c719c84783b4769a04735ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e40bc3c7bd94b8d29f5035f4ade976') in 0.008644 seconds
+  Import took 0.027416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 2.asset
+  artifactKey: Guid(a4d0d68e0c719c84783b4769a04735ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 2.asset using Guid(a4d0d68e0c719c84783b4769a04735ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e40bc3c7bd94b8d29f5035f4ade976') in 0.005458 seconds
+  Import took 0.008713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.188733 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 2.asset
+  artifactKey: Guid(a4d0d68e0c719c84783b4769a04735ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 2.asset using Guid(a4d0d68e0c719c84783b4769a04735ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf72c763653ced72599a3e55ec330a66') in 0.005099 seconds
+  Import took 0.008589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 3.asset
+  artifactKey: Guid(68b77da9ce392af469f66f368b31dfa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 3.asset using Guid(68b77da9ce392af469f66f368b31dfa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c68574dab0536efa54f9786865f20c3') in 0.011597 seconds
+  Import took 0.014856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.206509 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 3.asset
+  artifactKey: Guid(68b77da9ce392af469f66f368b31dfa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 3.asset using Guid(68b77da9ce392af469f66f368b31dfa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53eae7950191c605fb50f2e544ca485') in 0.006128 seconds
+  Import took 0.010175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 4.asset
+  artifactKey: Guid(1a8fb01493700ea40aa82245d5b576aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 4.asset using Guid(1a8fb01493700ea40aa82245d5b576aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66324f5b03ba3b07f5c2d645826b2045') in 0.010488 seconds
+  Import took 0.016072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.167043 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 4.asset
+  artifactKey: Guid(1a8fb01493700ea40aa82245d5b576aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 4.asset using Guid(1a8fb01493700ea40aa82245d5b576aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a2308cef505b6f939f766e83e9a841b') in 0.003835 seconds
+  Import took 0.007573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 5.asset
+  artifactKey: Guid(ceefa8a8a7966a845a1e89883661dc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 5.asset using Guid(ceefa8a8a7966a845a1e89883661dc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84961bb1c4d8c045e47674b79fb06859') in 0.012812 seconds
+  Import took 0.017186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.166330 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 5.asset
+  artifactKey: Guid(ceefa8a8a7966a845a1e89883661dc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 5.asset using Guid(ceefa8a8a7966a845a1e89883661dc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754564859c3d0f95932ffa86f09aa741') in 0.003280 seconds
+  Import took 0.006828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 6.asset
+  artifactKey: Guid(87058e7b7b313f140bd38b573659b79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 6.asset using Guid(87058e7b7b313f140bd38b573659b79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f86c5503d8c8146e3df6e8e0af5bda8') in 0.010569 seconds
+  Import took 0.013985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003773 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 5.asset
+  artifactKey: Guid(ceefa8a8a7966a845a1e89883661dc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 5.asset using Guid(ceefa8a8a7966a845a1e89883661dc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754564859c3d0f95932ffa86f09aa741') in 0.007980 seconds
+  Import took 0.012609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.796683 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 7.asset
+  artifactKey: Guid(8b2d178ff25cc2d479e2cf3e66abf908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 7.asset using Guid(8b2d178ff25cc2d479e2cf3e66abf908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f77eeb06ec283f95fcdeb4188150697d') in 0.010541 seconds
+  Import took 0.032244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.781325 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 8.asset
+  artifactKey: Guid(08002d73750dfad4cb3bbaec40624b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 8.asset using Guid(08002d73750dfad4cb3bbaec40624b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3901bcddfbf3b2710ff7179e0df07683') in 0.010197 seconds
+  Import took 0.016248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.156407 seconds.
+  path: Assets/LPRCore/ScriptableObjects/Engines/EngineType 6.asset
+  artifactKey: Guid(87058e7b7b313f140bd38b573659b79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/ScriptableObjects/Engines/EngineType 6.asset using Guid(87058e7b7b313f140bd38b573659b79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '891d63fe58fd2c4f9c5731b9ba91dae2') in 0.008361 seconds
+  Import took 0.033381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.905791 seconds.
+  path: Assets/LPRCore/SFX/Engine/8.wav
+  artifactKey: Guid(c9a5712f00b71b2439c5f08cf848e563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/8.wav using Guid(c9a5712f00b71b2439c5f08cf848e563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c07a8838a8ca2aa7c13219d69de6f8') in 0.053835 seconds
+  Import took 0.066351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.360198 seconds.
+  path: Assets/LPRCore/SFX/Engine/1.wav
+  artifactKey: Guid(2f0dbb876bb4c8749bfd5617f82bb5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/1.wav using Guid(2f0dbb876bb4c8749bfd5617f82bb5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ce5413278ca73605785d374f3f0b62') in 0.027694 seconds
+  Import took 0.042642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.148754 seconds.
+  path: Assets/LPRCore/SFX/Engine/2.wav
+  artifactKey: Guid(ee7002bfc8b127c49a5b8002acad8550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/2.wav using Guid(ee7002bfc8b127c49a5b8002acad8550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c752d6e7b4861dbc971571973ef77ab') in 0.015582 seconds
+  Import took 0.037121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.715861 seconds.
+  path: Assets/LPRCore/SFX/Engine/3.wav
+  artifactKey: Guid(d50355d1e8e65e5418dbedc87266397c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/3.wav using Guid(d50355d1e8e65e5418dbedc87266397c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c67031b8bb86dcd024238a5aaa97f668') in 0.019110 seconds
+  Import took 0.033298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.247699 seconds.
+  path: Assets/LPRCore/SFX/Engine/4.wav
+  artifactKey: Guid(3cddfda2f0beae3468a7946e77f49cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/4.wav using Guid(3cddfda2f0beae3468a7946e77f49cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd72619110f5abacfec10c5224add2c93') in 0.021348 seconds
+  Import took 0.024581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.391421 seconds.
+  path: Assets/LPRCore/SFX/Engine/5.wav
+  artifactKey: Guid(771e9991cff82b548802b39c2a992a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/5.wav using Guid(771e9991cff82b548802b39c2a992a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eeca27650a475ba6310b04a9093bac0') in 0.015978 seconds
+  Import took 0.019219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.190498 seconds.
+  path: Assets/LPRCore/SFX/Engine/6.wav
+  artifactKey: Guid(255e35ba5f00d5c4c9bca34e67805bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/6.wav using Guid(255e35ba5f00d5c4c9bca34e67805bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c5a52a7e7a391fcaf379fa450b3e1d') in 0.015589 seconds
+  Import took 0.019955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.871131 seconds.
+  path: Assets/LPRCore/SFX/Engine/7.wav
+  artifactKey: Guid(42d43102e2635644691cd4243319483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/7.wav using Guid(42d43102e2635644691cd4243319483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a4e0cac40f45ef7b4d748fac9f2c97') in 0.015218 seconds
+  Import took 0.040403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 735.690174 seconds.
+  path: Assets/LPRCore/SFX/Carn Horn 1.wav
+  artifactKey: Guid(ca2c7c54a1a478a43a55862fdfc53aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Carn Horn 1.wav using Guid(ca2c7c54a1a478a43a55862fdfc53aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd57c5856747b3063db1a9e80a9a5428') in 0.015558 seconds
+  Import took 0.406229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/LPRCore/SFX/Carn Horn 2.wav
+  artifactKey: Guid(3d801b4d28f45f94c9ba0e7ecb1d5fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Carn Horn 2.wav using Guid(3d801b4d28f45f94c9ba0e7ecb1d5fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '370521ff66c8b347dc46ade094f617d6') in 0.036402 seconds
+  Import took 0.039717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/LPRCore/SFX/Screwdriver.wav
+  artifactKey: Guid(6d2c4549f0b4abc40bb334e9e5bd90e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Screwdriver.wav using Guid(6d2c4549f0b4abc40bb334e9e5bd90e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4e3ef3f92685d36166fbb50a14508c') in 0.021739 seconds
+  Import took 0.059174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/LPRCore/SFX/Pounding.wav
+  artifactKey: Guid(87977f87e4ffdfd4fa3f7982955d405b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Pounding.wav using Guid(87977f87e4ffdfd4fa3f7982955d405b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f6e88882d3b268e12cb4b163dd7926') in 0.020291 seconds
+  Import took 0.027831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/LPRCore/SFX/Wrench.wav
+  artifactKey: Guid(4df51a38cbe252a4fafec9533107c721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Wrench.wav using Guid(4df51a38cbe252a4fafec9533107c721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b0b24b91481ef7a6243fd8675e3e99') in 0.019899 seconds
+  Import took 0.025569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/LPRCore/SFX/Pounding.wav
+  artifactKey: Guid(87977f87e4ffdfd4fa3f7982955d405b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Pounding.wav using Guid(87977f87e4ffdfd4fa3f7982955d405b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f6e88882d3b268e12cb4b163dd7926') in 0.012259 seconds
+  Import took 0.015718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/LPRCore/SFX/Smashed_Window_01.wav
+  artifactKey: Guid(a680ac677a9b95145b8fc3f4dd9c93a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Smashed_Window_01.wav using Guid(a680ac677a9b95145b8fc3f4dd9c93a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48688a187b9444b57807138d6bdd61c0') in 0.018605 seconds
+  Import took 0.064530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/LPRCore/SFX/Smashed_Window_02.wav
+  artifactKey: Guid(ba173abb628af4c498d81c31e7bcf3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Smashed_Window_02.wav using Guid(ba173abb628af4c498d81c31e7bcf3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64411000b97c9753a97bb7aa623ac9a9') in 0.017638 seconds
+  Import took 0.030579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002268 seconds.
+  path: Assets/LPRCore/SFX/Smashed_Window_02.wav
+  artifactKey: Guid(ba173abb628af4c498d81c31e7bcf3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Smashed_Window_02.wav using Guid(ba173abb628af4c498d81c31e7bcf3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64411000b97c9753a97bb7aa623ac9a9') in 0.011734 seconds
+  Import took 0.015367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.803603 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine 1.wav
+  artifactKey: Guid(2f0dbb876bb4c8749bfd5617f82bb5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine 1.wav using Guid(2f0dbb876bb4c8749bfd5617f82bb5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a585b7b51f6a79673fd081d6eb31a3bd') in 0.020493 seconds
+  Import took 0.038242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.483079 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine 2.wav
+  artifactKey: Guid(ee7002bfc8b127c49a5b8002acad8550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine 2.wav using Guid(ee7002bfc8b127c49a5b8002acad8550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509a67e6bd5389e5f3570934eddfc2eb') in 0.016320 seconds
+  Import took 0.030797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.913146 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine 3.wav
+  artifactKey: Guid(d50355d1e8e65e5418dbedc87266397c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine 3.wav using Guid(d50355d1e8e65e5418dbedc87266397c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a66ef26422cb663d6058ced020ad1e') in 0.015854 seconds
+  Import took 0.019342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.009000 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine 4.wav
+  artifactKey: Guid(3cddfda2f0beae3468a7946e77f49cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine 4.wav using Guid(3cddfda2f0beae3468a7946e77f49cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30bba2ab89e2f6a501a6a4f2bf8428e5') in 0.016267 seconds
+  Import took 0.037330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.000446 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine 5.wav
+  artifactKey: Guid(771e9991cff82b548802b39c2a992a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine 5.wav using Guid(771e9991cff82b548802b39c2a992a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '123ead813c950fd703b676f583dd8566') in 0.014872 seconds
+  Import took 0.018300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.653602 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine 6.wav
+  artifactKey: Guid(255e35ba5f00d5c4c9bca34e67805bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine 6.wav using Guid(255e35ba5f00d5c4c9bca34e67805bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f11978ba2107ccf4de107c4611c73d75') in 0.016373 seconds
+  Import took 0.019752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.837663 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine 7.wav
+  artifactKey: Guid(42d43102e2635644691cd4243319483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine 7.wav using Guid(42d43102e2635644691cd4243319483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdaf26e014c98b12963a15fa9421e285') in 0.016173 seconds
+  Import took 0.029787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.011558 seconds.
+  path: Assets/LPRCore/SFX/Engine/Engine 8.wav
+  artifactKey: Guid(c9a5712f00b71b2439c5f08cf848e563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/SFX/Engine/Engine 8.wav using Guid(c9a5712f00b71b2439c5f08cf848e563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f4487b8986e8ccbc5ec11d6384316b2') in 0.013930 seconds
+  Import took 0.018889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 339.758047 seconds.
+  path: Assets/LPRCore/Scripts/EngineSetup/EngineBehavior.cs
+  artifactKey: Guid(f3451a55966900041a7ef26a0fee53a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/EngineSetup/EngineBehavior.cs using Guid(f3451a55966900041a7ef26a0fee53a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0996575df33b6f327682b72d4a11f4d5') in 0.009430 seconds
+  Import took 0.031391 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000779 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.283 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1501 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.7 MB.
+System memory in use after: 96.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2040.
+Total: 2.082400 ms (FindLiveObjects: 0.187800 ms CreateObjectMapping: 0.074800 ms MarkObjects: 1.793200 ms  DeleteObjects: 0.024700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 126.398956 seconds.
+  path: Assets/LPRCore/Prefabs/sample.prefab
+  artifactKey: Guid(af6f44b64cf759a4e8cb891c8a7c5997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/sample.prefab using Guid(af6f44b64cf759a4e8cb891c8a7c5997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db89f605ab33ac7726ee03af1a3ad955') in 0.425839 seconds
+  Import took 0.448517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/LPRCore/Prefabs/RallyCar.prefab
+  artifactKey: Guid(0eea71721edf9594ea42aac226d7763f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/RallyCar.prefab using Guid(0eea71721edf9594ea42aac226d7763f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ed9f153141cd7fff0a2532f485f218') in 0.059657 seconds
+  Import took 0.089272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/LPRCore/Scripts/EngineSetup/EngineBehavior.cs
+  artifactKey: Guid(f3451a55966900041a7ef26a0fee53a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/EngineSetup/EngineBehavior.cs using Guid(f3451a55966900041a7ef26a0fee53a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f2a979baae3554fef01cf7a0a3a814') in 0.002511 seconds
+  Import took 0.017868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.979515 seconds.
+  path: Assets/LPRCore/Prefabs/Engines
+  artifactKey: Guid(9a66b34e2ec377642a76e57f60210085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Engines using Guid(9a66b34e2ec377642a76e57f60210085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4332e630e13b650a5212b611f6c6415') in 0.003763 seconds
+  Import took 0.029015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 378.741511 seconds.
+  path: Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab
+  artifactKey: Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab using Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2dde57b4c57d3f746c16da7b7bcc29') in 0.022747 seconds
+  Import took 0.035036 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.281 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1501 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.8 MB.
+System memory in use after: 96.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2045.
+Total: 3.314300 ms (FindLiveObjects: 0.313700 ms CreateObjectMapping: 0.094400 ms MarkObjects: 2.874000 ms  DeleteObjects: 0.030200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 71.535470 seconds.
+  path: Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab
+  artifactKey: Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab using Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3afe1f2c128c5d2ae9f8b7be1997bda7') in 0.085063 seconds
+  Import took 0.094359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.660701 seconds.
+  path: Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab
+  artifactKey: Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab using Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f5de7a58cff793b4f0de59e414f948') in 0.013521 seconds
+  Import took 0.016716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.273279 seconds.
+  path: Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab
+  artifactKey: Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab using Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebdd1365c33f88aad337b0d26ab26f9d') in 0.009161 seconds
+  Import took 0.023639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.348977 seconds.
+  path: Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab
+  artifactKey: Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab using Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53302b0d4f4437b833aed54299465a50') in 0.011207 seconds
+  Import took 0.025596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.013844 seconds.
+  path: Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab
+  artifactKey: Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab using Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99cff3fd3106515c1d16a75d00b66f63') in 0.013454 seconds
+  Import took 0.038767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.952241 seconds.
+  path: Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab
+  artifactKey: Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab using Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfe791ddabcd7bfc550dcdb78fb3d57') in 0.011360 seconds
+  Import took 0.025130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.023000 seconds.
+  path: Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab
+  artifactKey: Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Engines/EnginePrefab.prefab using Guid(c2a701ede7fc49040986cae1c94d55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1077c7a4aa24dae50b414580086254') in 0.009794 seconds
+  Import took 0.013022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 697.435900 seconds.
+  path: Assets/LPRCore/Materials/Models/CarBodies
+  artifactKey: Guid(2e1560d2dc9f3044bbd64dc09d488f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Materials/Models/CarBodies using Guid(2e1560d2dc9f3044bbd64dc09d488f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab7141315b7cf762fac0594637892be4') in 0.010768 seconds
+  Import took 0.023621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.760189 seconds.
+  path: Assets/LPRCore/Materials/Models/CarWheels
+  artifactKey: Guid(28ed94a81babc0d43b6cc76c48ada3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Materials/Models/CarWheels using Guid(28ed94a81babc0d43b6cc76c48ada3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cb1a662745806be0396847501f5b2df') in 0.009051 seconds
+  Import took 0.012152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 773.660290 seconds.
+  path: Assets/LPRCore/Materials/Models/CarBodies/RallyDefBody.fbx
+  artifactKey: Guid(99175e2fe07b4274e9e52c7feac92f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Materials/Models/CarBodies/RallyDefBody.fbx using Guid(99175e2fe07b4274e9e52c7feac92f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436332390f56bdd601c571803ab5aac9') in 0.171734 seconds
+  Import took 0.175397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 411.094247 seconds.
+  path: Assets/LPRCore/Materials/Models/CarBodies/RallyDefBody 1.fbx
+  artifactKey: Guid(dd1a6147c5ea9854598242aa67ec9d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Materials/Models/CarBodies/RallyDefBody 1.fbx using Guid(dd1a6147c5ea9854598242aa67ec9d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce788d5574684f3282b459c8105a090') in 0.037778 seconds
+  Import took 0.052904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.162479 seconds.
+  path: Assets/LPRCore/Materials/Models/CarBodies/RallyDefBody.fbx
+  artifactKey: Guid(99175e2fe07b4274e9e52c7feac92f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Materials/Models/CarBodies/RallyDefBody.fbx using Guid(99175e2fe07b4274e9e52c7feac92f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970e39f134d75441fba4492933eaf0a4') in 0.033355 seconds
+  Import took 0.049995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.826537 seconds.
+  path: Assets/LPRCore/Materials/Models/CarWheels/RallyWheelTest.fbx
+  artifactKey: Guid(8c0cfa806b725a942a0cedb9e977a76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Materials/Models/CarWheels/RallyWheelTest.fbx using Guid(8c0cfa806b725a942a0cedb9e977a76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e51c21f417c837a7c54d815e404694b9') in 0.033566 seconds
+  Import took 0.037360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.211755 seconds.
+  path: Assets/LPRCore/Prefabs/CarBodies
+  artifactKey: Guid(4c5fcb1a0e08d304e9013cd61a15cdb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/CarBodies using Guid(4c5fcb1a0e08d304e9013cd61a15cdb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c323f1dbbc90c27539d95020e9abcd8d') in 0.003838 seconds
+  Import took 0.026265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.250100 seconds.
+  path: Assets/LPRCore/Prefabs/Cars
+  artifactKey: Guid(78a0d657ace76b441816007d59a60873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars using Guid(78a0d657ace76b441816007d59a60873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09486be5ab3e2afc66a658cdd9056b25') in 0.008743 seconds
+  Import took 0.024291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.517729 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d2e36eb22cf252e1692b04ef97d009') in 0.022301 seconds
+  Import took 0.025687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.706185 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e3492fc38607e452bead338b67247a') in 0.016907 seconds
+  Import took 0.041497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.364285 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '252da1ee5f7df56cee3da994ce1eee5e') in 0.014820 seconds
+  Import took 0.018186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.849060 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59bae60c498217c82c27498678bea767') in 0.050500 seconds
+  Import took 0.053679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.759345 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f95bf680e374e8f0d86c3e8fd9350f7') in 0.027584 seconds
+  Import took 0.051978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.261839 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea5011fffdde90d286f5f2e31da31d8') in 0.013846 seconds
+  Import took 0.031103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.695837 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/Wheels
+  artifactKey: Guid(095082565a02f5e48b24c5c456d4a616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/Wheels using Guid(095082565a02f5e48b24c5c456d4a616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e65741a8f3d85f50076f0098a166a1') in 0.008600 seconds
+  Import took 0.011705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.259858 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/Wheels/RallyWheelTest.fbx
+  artifactKey: Guid(6e712394cb8fe004cb2e3def0315f772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/Wheels/RallyWheelTest.fbx using Guid(6e712394cb8fe004cb2e3def0315f772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa156b3323905d64b9ab382430ff662a') in 0.046116 seconds
+  Import took 0.062633 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001190 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.302 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1501 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.2 MB.
+System memory in use after: 97.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2085.
+Total: 2.034600 ms (FindLiveObjects: 0.161700 ms CreateObjectMapping: 0.056600 ms MarkObjects: 1.777500 ms  DeleteObjects: 0.037200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000759 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.311 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1501 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.2 MB.
+System memory in use after: 97.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2088.
+Total: 2.049100 ms (FindLiveObjects: 0.166300 ms CreateObjectMapping: 0.057100 ms MarkObjects: 1.790900 ms  DeleteObjects: 0.033100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.318 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1501 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.2 MB.
+System memory in use after: 97.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2091.
+Total: 2.000400 ms (FindLiveObjects: 0.168600 ms CreateObjectMapping: 0.058100 ms MarkObjects: 1.738100 ms  DeleteObjects: 0.034000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1497.384300 seconds.
+  path: Assets/LPRCore/Scripts/CarSetup/CarBehaviour.cs
+  artifactKey: Guid(f7e970fbc4529f24fbcdcfe70341cb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/CarSetup/CarBehaviour.cs using Guid(f7e970fbc4529f24fbcdcfe70341cb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b18fc9021e770527d49c6eed03268bcf') in 0.012009 seconds
+  Import took 0.015059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.694478 seconds.
+  path: Assets/LPRCore/Scripts/WheelPhysics/WheelBehavoiur.cs
+  artifactKey: Guid(444ba71860d6b7f4dbf6c9ece6fef02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/WheelPhysics/WheelBehavoiur.cs using Guid(444ba71860d6b7f4dbf6c9ece6fef02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2bdc42ab7c1e17727c7706cb5bba05') in 0.010148 seconds
+  Import took 0.029852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.744668 seconds.
+  path: Assets/LPRCore/Scripts/WheelPhysics/WheelSlipController.cs
+  artifactKey: Guid(cda020df4bd8e5f488c410fdeec3b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/WheelPhysics/WheelSlipController.cs using Guid(cda020df4bd8e5f488c410fdeec3b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033f52a99ae9e0992a52b4f7ffdb9370') in 0.022300 seconds
+  Import took 0.039353 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000768 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.350 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1499 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.1 MB.
+System memory in use after: 97.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2094.
+Total: 2.109100 ms (FindLiveObjects: 0.198800 ms CreateObjectMapping: 0.057600 ms MarkObjects: 1.827500 ms  DeleteObjects: 0.023700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 79.118996 seconds.
+  path: Assets/LPRCore/Scripts/WheelPhysics/WheelSlipController.cs
+  artifactKey: Guid(cda020df4bd8e5f488c410fdeec3b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/WheelPhysics/WheelSlipController.cs using Guid(cda020df4bd8e5f488c410fdeec3b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f2e2280514c8f5f2406bb14b75a4edf') in 0.006956 seconds
+  Import took 0.023520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001278 seconds.
+  path: Assets/LPRCore/Scripts/WheelPhysics/WheelSlipController.cs
+  artifactKey: Guid(cda020df4bd8e5f488c410fdeec3b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/WheelPhysics/WheelSlipController.cs using Guid(cda020df4bd8e5f488c410fdeec3b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f2e2280514c8f5f2406bb14b75a4edf') in 0.002735 seconds
+  Import took 0.005732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.254716 seconds.
+  path: Assets/LPRCore/Scripts/WheelPhysics/WheelBehavoiur.cs
+  artifactKey: Guid(cda020df4bd8e5f488c410fdeec3b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/WheelPhysics/WheelBehavoiur.cs using Guid(cda020df4bd8e5f488c410fdeec3b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33dbaa41117f630622c368aed9498037') in 0.006022 seconds
+  Import took 0.010127 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.524 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1499 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.2 MB.
+System memory in use after: 97.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2097.
+Total: 2.198300 ms (FindLiveObjects: 0.176000 ms CreateObjectMapping: 0.059800 ms MarkObjects: 1.941100 ms  DeleteObjects: 0.019700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000754 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.369 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1499 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.2 MB.
+System memory in use after: 97.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2100.
+Total: 2.410300 ms (FindLiveObjects: 0.168500 ms CreateObjectMapping: 0.065700 ms MarkObjects: 2.151300 ms  DeleteObjects: 0.023000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 216.872073 seconds.
+  path: Assets/LPRCore/Scripts/WheelPhysics/WheelBehavoiur.cs
+  artifactKey: Guid(cda020df4bd8e5f488c410fdeec3b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/WheelPhysics/WheelBehavoiur.cs using Guid(cda020df4bd8e5f488c410fdeec3b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c3e3e78506d54c49800c6aaf1b19724') in 0.004840 seconds
+  Import took 0.007707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 290.240424 seconds.
+  path: Assets/LPRCore/Prefabs/RallyCar.prefab
+  artifactKey: Guid(0eea71721edf9594ea42aac226d7763f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/RallyCar.prefab using Guid(0eea71721edf9594ea42aac226d7763f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7075decef0cc67e3a24f82586d392a2e') in 0.080244 seconds
+  Import took 0.084463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/LPRCore/Prefabs/sample.prefab
+  artifactKey: Guid(af6f44b64cf759a4e8cb891c8a7c5997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/sample.prefab using Guid(af6f44b64cf759a4e8cb891c8a7c5997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68dd9b646efc59a84957b5a656473462') in 0.165676 seconds
+  Import took 0.573450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.094507 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/Wheels/WheelPrefab.prefab
+  artifactKey: Guid(aa5bbc01bc8b443488d97e849e56123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/Wheels/WheelPrefab.prefab using Guid(aa5bbc01bc8b443488d97e849e56123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b015b128c423d645bc208a41951fa55e') in 0.030619 seconds
+  Import took 0.036057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.645750 seconds.
+  path: Assets/LPRCore/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03563ff64d0ebd24f37be7a462787abb') in 0.027794 seconds
+  Import took 0.030776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.781466 seconds.
+  path: Assets/LPRCore/Scenes/Test.unity
+  artifactKey: Guid(459e9a56a25e7f842bf3e9ffcdc41c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scenes/Test.unity using Guid(459e9a56a25e7f842bf3e9ffcdc41c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49432a0af49f447de24ab68556a6052e') in 0.009170 seconds
+  Import took 0.012081 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000798 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.370 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1499 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.2 MB.
+System memory in use after: 97.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2104.
+Total: 2.095000 ms (FindLiveObjects: 0.166400 ms CreateObjectMapping: 0.058100 ms MarkObjects: 1.840900 ms  DeleteObjects: 0.027900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 93.396189 seconds.
+  path: Assets/LPRCore/Scripts/CarSetup/WheelValuesInCarBoby.cs
+  artifactKey: Guid(525e104e134793f4cbee747e9cf54d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/CarSetup/WheelValuesInCarBoby.cs using Guid(525e104e134793f4cbee747e9cf54d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '695a66f8a7f3858038541cbd76a20144') in 0.012731 seconds
+  Import took 0.015845 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009330 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.426 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1499 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.2 MB.
+System memory in use after: 97.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2107.
+Total: 2.112100 ms (FindLiveObjects: 0.184400 ms CreateObjectMapping: 0.059800 ms MarkObjects: 1.843100 ms  DeleteObjects: 0.023300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 31.296749 seconds.
+  path: Assets/LPRCore/Scripts/CarSpawner.cs
+  artifactKey: Guid(160c1d73016075f47bbb36d2c8ed811e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/CarSpawner.cs using Guid(160c1d73016075f47bbb36d2c8ed811e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bcf7f81d7fe6e09b9732c6c46a0cc3a') in 0.018434 seconds
+  Import took 0.045323 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004422 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.565 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2111.
+Total: 2.527900 ms (FindLiveObjects: 0.193000 ms CreateObjectMapping: 0.060400 ms MarkObjects: 2.244400 ms  DeleteObjects: 0.028100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.361 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2114.
+Total: 2.178500 ms (FindLiveObjects: 0.178200 ms CreateObjectMapping: 0.059700 ms MarkObjects: 1.921500 ms  DeleteObjects: 0.017400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 215.434943 seconds.
+  path: Assets/LPRCore/Scripts/CarSpawner.cs
+  artifactKey: Guid(160c1d73016075f47bbb36d2c8ed811e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/CarSpawner.cs using Guid(160c1d73016075f47bbb36d2c8ed811e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b43ef71acccb62183d359767182ff0a') in 0.005254 seconds
+  Import took 0.008205 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.439 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2117.
+Total: 2.678600 ms (FindLiveObjects: 0.242700 ms CreateObjectMapping: 0.108300 ms MarkObjects: 2.308200 ms  DeleteObjects: 0.017900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 102.596473 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b9a310203942c23f2d180dcab855a8a') in 0.079260 seconds
+  Import took 0.082512 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000945 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.404 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2121.
+Total: 2.132900 ms (FindLiveObjects: 0.163900 ms CreateObjectMapping: 0.056100 ms MarkObjects: 1.887800 ms  DeleteObjects: 0.023500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000987 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.474 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2124.
+Total: 2.154200 ms (FindLiveObjects: 0.237000 ms CreateObjectMapping: 0.087800 ms MarkObjects: 1.809800 ms  DeleteObjects: 0.017400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.413 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2127.
+Total: 1.986500 ms (FindLiveObjects: 0.173100 ms CreateObjectMapping: 0.060100 ms MarkObjects: 1.735900 ms  DeleteObjects: 0.016000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000794 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.445 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2130.
+Total: 2.203000 ms (FindLiveObjects: 0.185800 ms CreateObjectMapping: 0.059500 ms MarkObjects: 1.938600 ms  DeleteObjects: 0.017300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 579.792518 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daebeacc8524805532049ce2363fcbfd') in 0.086563 seconds
+  Import took 0.091552 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000814 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.400 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2134.
+Total: 2.195600 ms (FindLiveObjects: 0.161100 ms CreateObjectMapping: 0.055500 ms MarkObjects: 1.954200 ms  DeleteObjects: 0.023000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 84.746849 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82232afb788db819795fe059dc870783') in 0.079487 seconds
+  Import took 0.082903 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000797 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.394 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2138.
+Total: 2.028400 ms (FindLiveObjects: 0.176500 ms CreateObjectMapping: 0.054700 ms MarkObjects: 1.779600 ms  DeleteObjects: 0.016400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 80.809902 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c41f636288e09481f42222a74c335e') in 0.075498 seconds
+  Import took 0.107815 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000872 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.468 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2142.
+Total: 2.311300 ms (FindLiveObjects: 0.180100 ms CreateObjectMapping: 0.063100 ms MarkObjects: 2.049700 ms  DeleteObjects: 0.016500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 6.563928 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba240c4aa9be3a639d6436cf74236ed') in 0.080398 seconds
+  Import took 0.101920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.241237 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9e8e68e3d89378ffdcadb16a08a407c') in 0.016278 seconds
+  Import took 0.020408 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000786 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.641 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2146.
+Total: 2.060500 ms (FindLiveObjects: 0.168600 ms CreateObjectMapping: 0.057200 ms MarkObjects: 1.809100 ms  DeleteObjects: 0.024100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 27.687034 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efb3d3bca76b9d8c3794591a55ca9d6') in 0.118916 seconds
+  Import took 0.122884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.729213 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783726d9657144a36c1d9c6d88b09d2c') in 0.015041 seconds
+  Import took 0.035630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075399 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab
+  artifactKey: Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/CarBodies/RallySampleCar.prefab using Guid(0fceb10becc16dd468c92e2306d92855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783726d9657144a36c1d9c6d88b09d2c') in 0.012827 seconds
+  Import took 0.016444 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000806 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2150.
+Total: 2.419100 ms (FindLiveObjects: 0.263000 ms CreateObjectMapping: 0.076300 ms MarkObjects: 2.057800 ms  DeleteObjects: 0.020200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.795 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2153.
+Total: 2.155100 ms (FindLiveObjects: 0.181800 ms CreateObjectMapping: 0.059100 ms MarkObjects: 1.878600 ms  DeleteObjects: 0.034000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000796 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.543 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2156.
+Total: 2.474300 ms (FindLiveObjects: 0.189800 ms CreateObjectMapping: 0.083400 ms MarkObjects: 2.177900 ms  DeleteObjects: 0.021300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 394.370948 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/Wheels/WheelPrefab.prefab
+  artifactKey: Guid(aa5bbc01bc8b443488d97e849e56123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/Wheels/WheelPrefab.prefab using Guid(aa5bbc01bc8b443488d97e849e56123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c2f438bfd48d1074759c3b805962298') in 0.075766 seconds
+  Import took 0.080055 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.556 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2160.
+Total: 2.144100 ms (FindLiveObjects: 0.189600 ms CreateObjectMapping: 0.060900 ms MarkObjects: 1.872300 ms  DeleteObjects: 0.019100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000902 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.439 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2163.
+Total: 2.158800 ms (FindLiveObjects: 0.166400 ms CreateObjectMapping: 0.056100 ms MarkObjects: 1.910600 ms  DeleteObjects: 0.024200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 95.070906 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/Wheels/WheelPrefab.prefab
+  artifactKey: Guid(aa5bbc01bc8b443488d97e849e56123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/Wheels/WheelPrefab.prefab using Guid(aa5bbc01bc8b443488d97e849e56123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0783cd1a04530a73b2c029fe67085af6') in 0.075807 seconds
+  Import took 0.079695 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000802 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.500 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2167.
+Total: 2.401700 ms (FindLiveObjects: 0.180900 ms CreateObjectMapping: 0.059400 ms MarkObjects: 2.144300 ms  DeleteObjects: 0.015500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000792 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.517 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2170.
+Total: 2.511800 ms (FindLiveObjects: 0.180900 ms CreateObjectMapping: 0.060600 ms MarkObjects: 2.251700 ms  DeleteObjects: 0.016900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 40.178757 seconds.
+  path: Assets/LPRCore/Prefabs/Cars/Wheels/WheelPrefab.prefab
+  artifactKey: Guid(aa5bbc01bc8b443488d97e849e56123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Prefabs/Cars/Wheels/WheelPrefab.prefab using Guid(aa5bbc01bc8b443488d97e849e56123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3116afb6d3d6c40f4ff8c74af7ff083') in 0.076581 seconds
+  Import took 0.079834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.769799 seconds.
+  path: Assets/LPRCore/Scripts/CarSpawner.cs
+  artifactKey: Guid(160c1d73016075f47bbb36d2c8ed811e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/CarSpawner.cs using Guid(160c1d73016075f47bbb36d2c8ed811e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53b71c29abdb0967236ec4bed3fc275') in 0.003742 seconds
+  Import took 0.007076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001875 seconds.
+  path: Assets/LPRCore/Scripts/CarSpawner.cs
+  artifactKey: Guid(160c1d73016075f47bbb36d2c8ed811e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LPRCore/Scripts/CarSpawner.cs using Guid(160c1d73016075f47bbb36d2c8ed811e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53b71c29abdb0967236ec4bed3fc275') in 0.003279 seconds
+  Import took 0.006643 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.509 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2174.
+Total: 2.349000 ms (FindLiveObjects: 0.192400 ms CreateObjectMapping: 0.076500 ms MarkObjects: 2.054300 ms  DeleteObjects: 0.024100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000694 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.576 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.4 MB.
+System memory in use after: 97.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2177.
+Total: 1.980000 ms (FindLiveObjects: 0.176500 ms CreateObjectMapping: 0.057400 ms MarkObjects: 1.729200 ms  DeleteObjects: 0.015600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

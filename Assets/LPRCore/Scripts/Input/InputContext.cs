@@ -26,13 +26,13 @@ public class InputContext : MonoBehaviour
     {
         accelerationF = context.ReadValue<float>();
         //Debug.Log($"{accelerationF}");
-        engineScript.InputAcceleration(accelerationF);
+        //engineScript.InputAcceleration(accelerationF);
     }
     public void MethodRespondingToTorque(float scrollBarValue)
     {
         accelerationF = scrollBarValue;
         //Debug.Log($"{accelerationF}");
-        engineScript.InputAcceleration(accelerationF);
+        //engineScript.InputAcceleration(accelerationF);
     }
 
     public void MethodRespondingToRotate(InputAction.CallbackContext context)
@@ -55,24 +55,24 @@ public class InputContext : MonoBehaviour
     {
         if (context.performed)
         {
-            engineScript.InputGear(true);
+            //engineScript.InputGear(true);
         }
     }
     public void RespondToDownGear(InputAction.CallbackContext context)
     {
         if (context.performed)
         {
-            engineScript.InputGear(false);
+            //engineScript.InputGear(false);
         }
     }
     public void RespondToUpGear()
     {
-       engineScript.InputGear(true);
+       //engineScript.InputGear(true);
     }
     public void RespondToDownGear()
     {
         
-       engineScript.InputGear(false);
+       //engineScript.InputGear(false);
         
     }
 }
