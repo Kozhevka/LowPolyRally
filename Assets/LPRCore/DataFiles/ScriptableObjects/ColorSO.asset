@@ -1,0 +1,957 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15252ab7ef4143841b05ac0bde78d99b, type: 3}
+  m_Name: ColorSO
+  m_EditorClassIdentifier: 
+  colorStructArray:
+  - colorCode: 000000
+    colorRGB: {x: 0, y: 0, z: 0}
+    color: {r: 0, g: 0, b: 0, a: 1}
+    colorEnum: 0
+    materialName: 000000
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 080808
+    colorRGB: {x: 0.03137255, y: 0.03137255, z: 0.03137255}
+    color: {r: 0.03137255, g: 0.03137255, b: 0.03137255, a: 1}
+    colorEnum: 1
+    materialName: 080808
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 7D7D7D
+    colorRGB: {x: 0.49019608, y: 0.49019608, z: 0.49019608}
+    color: {r: 0.49019608, g: 0.49019608, b: 0.49019608, a: 1}
+    colorEnum: 2
+    materialName: 7D7D7D
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: BBBBBB
+    colorRGB: {x: 0.73333335, y: 0.73333335, z: 0.73333335}
+    color: {r: 0.73333335, g: 0.73333335, b: 0.73333335, a: 1}
+    colorEnum: 3
+    materialName: BBBBBB
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: FCFCFC
+    colorRGB: {x: 0.9882353, y: 0.9882353, z: 0.9882353}
+    color: {r: 0.9882353, g: 0.9882353, b: 0.9882353, a: 1}
+    colorEnum: 4
+    materialName: FCFCFC
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 0000FD
+    colorRGB: {x: 0, y: 0, z: 0.99215686}
+    color: {r: 0, g: 0, b: 0.99215686, a: 1}
+    colorEnum: 5
+    materialName: 0000FD
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 0079F5
+    colorRGB: {x: 0, y: 0.4745098, z: 0.9607843}
+    color: {r: 0, g: 0.4745098, b: 0.9607843, a: 1}
+    colorEnum: 6
+    materialName: 0079F5
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 3EBAFC
+    colorRGB: {x: 0.24313726, y: 0.7294118, z: 0.9882353}
+    color: {r: 0.24313726, g: 0.7294118, b: 0.9882353, a: 1}
+    colorEnum: 7
+    materialName: 3EBAFC
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: A3E5FD
+    colorRGB: {x: 0.6392157, y: 0.8980392, z: 0.99215686}
+    color: {r: 0.6392157, g: 0.8980392, b: 0.99215686, a: 1}
+    colorEnum: 8
+    materialName: A3E5FD
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 0000BB
+    colorRGB: {x: 0, y: 0, z: 0.73333335}
+    color: {r: 0, g: 0, b: 0.73333335, a: 1}
+    colorEnum: 9
+    materialName: 0000BB
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 0058F5
+    colorRGB: {x: 0, y: 0.34509805, z: 0.9607843}
+    color: {r: 0, g: 0.34509805, b: 0.9607843, a: 1}
+    colorEnum: 10
+    materialName: 0058F5
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 6889FC
+    colorRGB: {x: 0.40784314, y: 0.5372549, z: 0.9882353}
+    color: {r: 0.40784314, g: 0.5372549, b: 0.9882353, a: 1}
+    colorEnum: 11
+    materialName: 6889FC
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: B7B7F9
+    colorRGB: {x: 0.7176471, y: 0.7176471, z: 0.9764706}
+    color: {r: 0.7176471, g: 0.7176471, b: 0.9764706, a: 1}
+    colorEnum: 12
+    materialName: B7B7F9
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 007900
+    colorRGB: {x: 0, y: 0.4745098, z: 0}
+    color: {r: 0, g: 0.4745098, b: 0, a: 1}
+    colorEnum: 13
+    materialName: 007900
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 02B702
+    colorRGB: {x: 0.007843138, y: 0.7176471, z: 0.007843138}
+    color: {r: 0.007843138, g: 0.7176471, b: 0.007843138, a: 1}
+    colorEnum: 14
+    materialName: 02B702
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: B7F91A
+    colorRGB: {x: 0.7176471, y: 0.9764706, z: 0.101960786}
+    color: {r: 0.7176471, g: 0.9764706, b: 0.101960786, a: 1}
+    colorEnum: 15
+    materialName: B7F91A
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: D8F975
+    colorRGB: {x: 0.84705883, y: 0.9764706, z: 0.45882353}
+    color: {r: 0.84705883, g: 0.9764706, b: 0.45882353, a: 1}
+    colorEnum: 16
+    materialName: D8F975
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 006900
+    colorRGB: {x: 0, y: 0.4117647, z: 0}
+    color: {r: 0, g: 0.4117647, b: 0, a: 1}
+    colorEnum: 17
+    materialName: 006900
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 02A702
+    colorRGB: {x: 0.007843138, y: 0.654902, z: 0.007843138}
+    color: {r: 0.007843138, g: 0.654902, b: 0.007843138, a: 1}
+    colorEnum: 18
+    materialName: 02A702
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 5CD854
+    colorRGB: {x: 0.36078432, y: 0.84705883, z: 0.32941177}
+    color: {r: 0.36078432, g: 0.84705883, b: 0.32941177, a: 1}
+    colorEnum: 19
+    materialName: 5CD854
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: B7F9B7
+    colorRGB: {x: 0.7176471, y: 0.9764706, z: 0.7176471}
+    color: {r: 0.7176471, g: 0.9764706, b: 0.7176471, a: 1}
+    colorEnum: 20
+    materialName: B7F9B7
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 005800
+    colorRGB: {x: 0, y: 0.34509805, z: 0}
+    color: {r: 0, g: 0.34509805, b: 0, a: 1}
+    colorEnum: 21
+    materialName: 005800
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 02A744
+    colorRGB: {x: 0.007843138, y: 0.654902, z: 0.26666668}
+    color: {r: 0.007843138, g: 0.654902, b: 0.26666668, a: 1}
+    colorEnum: 22
+    materialName: 02A744
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 58F59A
+    colorRGB: {x: 0.34509805, y: 0.9607843, z: 0.6039216}
+    color: {r: 0.34509805, g: 0.9607843, b: 0.6039216, a: 1}
+    colorEnum: 23
+    materialName: 58F59A
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: B7F9D8
+    colorRGB: {x: 0.7176471, y: 0.9764706, z: 0.84705883}
+    color: {r: 0.7176471, g: 0.9764706, b: 0.84705883, a: 1}
+    colorEnum: 24
+    materialName: B7F9D8
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 004058
+    colorRGB: {x: 0, y: 0.2509804, z: 0.34509805}
+    color: {r: 0, g: 0.2509804, b: 0.34509805, a: 1}
+    colorEnum: 25
+    materialName: 004058
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 008787
+    colorRGB: {x: 0, y: 0.5294118, z: 0.5294118}
+    color: {r: 0, g: 0.5294118, b: 0.5294118, a: 1}
+    colorEnum: 26
+    materialName: 008787
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 02E9D8
+    colorRGB: {x: 0.007843138, y: 0.9137255, z: 0.84705883}
+    color: {r: 0.007843138, g: 0.9137255, b: 0.84705883, a: 1}
+    colorEnum: 27
+    materialName: 02E9D8
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 00FDFD
+    colorRGB: {x: 0, y: 0.99215686, z: 0.99215686}
+    color: {r: 0, g: 0.99215686, b: 0.99215686, a: 1}
+    colorEnum: 28
+    materialName: 00FDFD
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 4027BB
+    colorRGB: {x: 0.2509804, y: 0.15294118, z: 0.73333335}
+    color: {r: 0.2509804, g: 0.15294118, b: 0.73333335, a: 1}
+    colorEnum: 29
+    materialName: 4027BB
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 6544F9
+    colorRGB: {x: 0.39607844, y: 0.26666668, z: 0.9764706}
+    color: {r: 0.39607844, g: 0.26666668, b: 0.9764706, a: 1}
+    colorEnum: 30
+    materialName: 6544F9
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 9978FC
+    colorRGB: {x: 0.6, y: 0.47058824, z: 0.9882353}
+    color: {r: 0.6, g: 0.47058824, b: 0.9882353, a: 1}
+    colorEnum: 31
+    materialName: 9978FC
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: D8B7F9
+    colorRGB: {x: 0.84705883, y: 0.7176471, z: 0.9764706}
+    color: {r: 0.84705883, g: 0.7176471, b: 0.9764706, a: 1}
+    colorEnum: 32
+    materialName: D8B7F9
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 920082
+    colorRGB: {x: 0.57254905, y: 0, z: 0.50980395}
+    color: {r: 0.57254905, g: 0, b: 0.50980395, a: 1}
+    colorEnum: 33
+    materialName: 920082
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: D802D0
+    colorRGB: {x: 0.84705883, y: 0.007843138, z: 0.8156863}
+    color: {r: 0.84705883, g: 0.007843138, b: 0.8156863, a: 1}
+    colorEnum: 34
+    materialName: D802D0
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: F579F5
+    colorRGB: {x: 0.9607843, y: 0.4745098, z: 0.9607843}
+    color: {r: 0.9607843, g: 0.4745098, b: 0.9607843, a: 1}
+    colorEnum: 35
+    materialName: F579F5
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: F9B7F9
+    colorRGB: {x: 0.9764706, y: 0.7176471, z: 0.9764706}
+    color: {r: 0.9764706, g: 0.7176471, b: 0.9764706, a: 1}
+    colorEnum: 36
+    materialName: F9B7F9
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: A70223
+    colorRGB: {x: 0.654902, y: 0.007843138, z: 0.13725491}
+    color: {r: 0.654902, g: 0.007843138, b: 0.13725491, a: 1}
+    colorEnum: 38
+    materialName: A70223
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: F5589A
+    colorRGB: {x: 0.9607843, y: 0.34509805, z: 0.6039216}
+    color: {r: 0.9607843, g: 0.34509805, b: 0.6039216, a: 1}
+    colorEnum: 38
+    materialName: F5589A
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: F9A7BF
+    colorRGB: {x: 0.9764706, y: 0.654902, z: 0.7490196}
+    color: {r: 0.9764706, g: 0.654902, b: 0.7490196, a: 1}
+    colorEnum: 39
+    materialName: F9A7BF
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: A71202
+    colorRGB: {x: 0.654902, y: 0.07058824, z: 0.007843138}
+    color: {r: 0.654902, g: 0.07058824, b: 0.007843138, a: 1}
+    colorEnum: 40
+    materialName: A71202
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: E50058
+    colorRGB: {x: 0.8980392, y: 0, z: 0.34509805}
+    color: {r: 0.8980392, g: 0, b: 0.34509805, a: 1}
+    colorEnum: 41
+    materialName: E50058
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: F57958
+    colorRGB: {x: 0.9607843, y: 0.4745098, z: 0.34509805}
+    color: {r: 0.9607843, g: 0.4745098, b: 0.34509805, a: 1}
+    colorEnum: 42
+    materialName: F57958
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: F1D0AF
+    colorRGB: {x: 0.94509804, y: 0.8156863, z: 0.6862745}
+    color: {r: 0.94509804, g: 0.8156863, b: 0.6862745, a: 1}
+    colorEnum: 43
+    materialName: F1D0AF
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 891505
+    colorRGB: {x: 0.5372549, y: 0.08235294, z: 0.019607844}
+    color: {r: 0.5372549, g: 0.08235294, b: 0.019607844, a: 1}
+    colorEnum: 44
+    materialName: 891505
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: E05C12
+    colorRGB: {x: 0.8784314, y: 0.36078432, z: 0.07058824}
+    color: {r: 0.8784314, g: 0.36078432, b: 0.07058824, a: 1}
+    colorEnum: 45
+    materialName: E05C12
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: FCA147
+    colorRGB: {x: 0.9882353, y: 0.6313726, z: 0.2784314}
+    color: {r: 0.9882353, g: 0.6313726, b: 0.2784314, a: 1}
+    colorEnum: 46
+    materialName: FCA147
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: FFE0A7
+    colorRGB: {x: 1, y: 0.8784314, z: 0.654902}
+    color: {r: 1, g: 0.8784314, b: 0.654902, a: 1}
+    colorEnum: 47
+    materialName: FFE0A7
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: 502F00
+    colorRGB: {x: 0.3137255, y: 0.18431373, z: 0}
+    color: {r: 0.3137255, g: 0.18431373, b: 0, a: 1}
+    colorEnum: 48
+    materialName: 502F00
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: AF7D02
+    colorRGB: {x: 0.6862745, y: 0.49019608, z: 0.007843138}
+    color: {r: 0.6862745, g: 0.49019608, b: 0.007843138, a: 1}
+    colorEnum: 49
+    materialName: AF7D02
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: F9B702
+    colorRGB: {x: 0.9764706, y: 0.7176471, z: 0.007843138}
+    color: {r: 0.9764706, g: 0.7176471, b: 0.007843138, a: 1}
+    colorEnum: 50
+    materialName: F9B702
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  - colorCode: F9D875
+    colorRGB: {x: 0.9764706, y: 0.84705883, z: 0.45882353}
+    color: {r: 0.9764706, g: 0.84705883, b: 0.45882353, a: 1}
+    colorEnum: 51
+    materialName: F9D875
+    forwardFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    sideFrictionCurve:
+      extremumSlip: 0.8
+      extremumValue: 1
+      asymptoteSlip: 0.1
+      asymptoteValue: 0.5
+      stiffness: 1
+    bouncyValue: 0.1
+  defaultFrictionCurve:
+    extremumSlip: 0.8
+    extremumValue: 1
+    asymptoteSlip: 0.1
+    asymptoteValue: 0.5
+    stiffness: 1
