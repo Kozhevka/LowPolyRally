@@ -14,7 +14,7 @@ public class EngineBehavior : MonoBehaviour
     private float accelarationValue;
     private float audioPintchMultiplier;
     private float minimumPintch = 1f;
-    private float maximumPintch = 2.5f;
+    private float maximumPintch = 2f;
 
     [Header("RPM"), SerializeField] private float engineRPM;
     [SerializeField] private float averageSlip;

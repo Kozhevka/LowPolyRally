@@ -7,6 +7,7 @@ public class CarSpawner : MonoBehaviour
     [SerializeField] private CarBehaviour carPrefab;
     [SerializeField] private WheelBehavoiur wheelPrefab;
     [SerializeField] private EngineDataSO engineSO;
+    [SerializeField] private FollowAndLookAt cameraScript;
 
     private void Start()
     {
@@ -14,5 +15,7 @@ public class CarSpawner : MonoBehaviour
         newCar.transform.position = transform.position;
         newCar.LoadData(wheelPrefab, newCar.transform, engineSO);
         InputContext.Instance.LoadData(newCar);
+        cameraScript.enabled = true;
+        cameraScript.LoadData(newCar.LookAtTarget, newCar.CameraPos);
     }
 }

@@ -13,11 +13,13 @@ public class CarBehaviour : MonoBehaviour
     [SerializeField] private GameObject[] frontLights;
     [SerializeField] private GameObject[] backLights;
 
+    [SerializeField] private Transform cameraPos;
+    [SerializeField] private Transform lookAtTarget;
+
     [SerializeField] private TurnManager turnManager;
     [SerializeField] private BrakeSystem brakeSystem;
 
     [SerializeField] private Transform enginePosition;
-
     [SerializeField] private EngineBehavior currentEngine;
 
     [Header("Differential")]
@@ -25,6 +27,9 @@ public class CarBehaviour : MonoBehaviour
     private int wheelCount;
 
     public EngineBehavior CurrentEngine { get => currentEngine; set => currentEngine = value; }
+
+    public Transform CameraPos { get => cameraPos; }
+    public Transform LookAtTarget { get => lookAtTarget; }
 
     private void Awake()
     {
@@ -38,10 +43,15 @@ public class CarBehaviour : MonoBehaviour
 
         currentEngine.SetCar(this);
 
-        foreach (var wheel in frontWheels)
+        
+        for (int i = 0; i < frontWheels.Length; i++)
         {
-            WheelBehavoiur wheelTransform = Instantiate(wheelBehavoiur, wheel.TargetPosition);
+            WheelBehavoiur wheelBeh = Instantiate(wheelBehavoiur, frontWheels[i].TargetPosition);
 
+            if ((i + 1) % 2 == 0)
+            {
+                wheelBeh.LoadData(true);
+            }
             //wheelTransform.transform.SetParent(parent);
             //wheelTransform.transform.localRotation = Quaternion.Euler(Vector3.zero);
         }
@@ -52,6 +62,11 @@ public class CarBehaviour : MonoBehaviour
         {
             WheelBehavoiur wheelBeh = Instantiate(wheelBehavoiur, backWheels[i].TargetPosition);
             accelerationWheels.Add(wheelBeh);
+
+            if ((i + 1)%2 == 0)
+            {
+                wheelBeh.LoadData(true);
+            }
         }
 
         for (int i = 0, y = 0; i < differentials.Length; i++)
@@ -71,11 +86,12 @@ public class CarBehaviour : MonoBehaviour
 
     public void AddWheelAcceleration(float rotationForce)
     {
-        foreach (var differential in differentials)
-        {
-            differential.LeftWheel.CurrentWheel.motorTorque = rotationForce;
-            differential.RightWheel.CurrentWheel.motorTorque = rotationForce;
-        }
+        
+            foreach (var differential in differentials)
+            {
+                differential.LeftWheel.CurrentWheel.motorTorque = rotationForce;
+                differential.RightWheel.CurrentWheel.motorTorque = rotationForce;
+            }
     }
 
     public float CountAverageSlip()

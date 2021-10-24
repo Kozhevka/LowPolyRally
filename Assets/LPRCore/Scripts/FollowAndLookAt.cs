@@ -12,19 +12,25 @@ public class FollowAndLookAt : MonoBehaviour
     [SerializeField] private Vector3 UpPosition;
     Vector3 previousFramePos;
 
-    private void Start()
-    {
-        thisTransform = transform;
-    }
+    
 
     private void FixedUpdate()
     {
-        Vector3 smoothedTargetPosition = Vector3.Lerp(lookAtTarget.position, previousFramePos, Time.deltaTime * moveSmooth);
+        if(moveTarget != null)
+        {
+            Vector3 smoothedTargetPosition = Vector3.Lerp(lookAtTarget.position, previousFramePos, moveSmooth);
 
-        thisTransform.LookAt(smoothedTargetPosition, Vector3.up);
+            transform.LookAt(smoothedTargetPosition, Vector3.up);
 
-        thisTransform.position = Vector3.Lerp(thisTransform.position, moveTarget.position + UpPosition, Time.deltaTime * moveSmooth);
+            transform.position = Vector3.Lerp(transform.position, moveTarget.position + UpPosition, moveSmooth);
 
-        previousFramePos = lookAtTarget.position;
+            previousFramePos = lookAtTarget.position;
+        }
+    }
+
+    public void LoadData(Transform lookTarget, Transform targetPos)
+    {
+        lookAtTarget = lookTarget;
+        moveTarget = targetPos;
     }
 }

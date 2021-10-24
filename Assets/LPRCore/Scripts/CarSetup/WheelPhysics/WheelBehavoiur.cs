@@ -17,13 +17,25 @@ public class WheelBehavoiur : MonoBehaviour
     private const int sideFriction = 1;
 
 
+
     public WheelCollider CurrentWheel { get => currentWheel; private set => currentWheel = value; }
     public float SlipValue { get => slipValue; }
 
-    private void Start()
+
+    private void Awake()
     {
         currentColorEnum = 0;
         currentMapRender = ColorDetector.Instance.CurrentMap;
+
+    }
+
+    public void LoadData(bool rightWheel)
+    {
+        if (rightWheel)
+        {
+            wheelBody.GetChild(0).Rotate(0, 180f, 0);
+            Debug.Log("RotateChild", this);
+        }
     }
 
     private void FixedUpdate()
