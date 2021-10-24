@@ -11,11 +11,14 @@ public class WheelBehavoiur : MonoBehaviour
     private Color currentColor;
     private ColorEnum currentColorEnum = 0;
     private MeshRenderer currentMapRender;
+    private float slipValue;
 
     private const int forwardFriction = 0;
     private const int sideFriction = 1;
 
+
     public WheelCollider CurrentWheel { get => currentWheel; private set => currentWheel = value; }
+    public float SlipValue { get => slipValue; }
 
     private void Start()
     {
@@ -43,7 +46,8 @@ public class WheelBehavoiur : MonoBehaviour
     private void UpdateGroundType()
     {
         if (CurrentWheel.GetGroundHit(out WheelHit wheelHit))
-        { 
+        {
+            slipValue = wheelHit.forwardSlip;
        //tmpText.text = wheelHit.forwardSlip.ToString();
             Color groundColor = DetectColor();
             
@@ -85,7 +89,7 @@ public class WheelBehavoiur : MonoBehaviour
         Physics.Raycast(CurrentWheel.transform.position, Vector3.down, out hit);
 
         MeshCollider meshCollider = hit.collider as MeshCollider;
-
+        
         ///if (rend == null)
         ///    Debug.Log("rend == null");
         ///if (rend.sharedMaterial == null)

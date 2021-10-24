@@ -3,27 +3,25 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class InputContext : MonoBehaviour
+public class InputContext : Singleton<InputContext>
 {
-    private float accelerationF;
+    [SerializeField] private float accelerationF;
     private float rotation;
     private float brake;
 
-    [SerializeField] private GameObject car;
-    private Engine engineScript;
+    private CarBehaviour carBeh;
     private TurnManager turnManager;
     private BrakeSystem brakeSystem;
 
 
-    private void Start()
+    public void LoadData(CarBehaviour carBehaviour)
     {
-        engineScript = gameObject.GetComponent<Engine>();
-        turnManager = gameObject.GetComponent<TurnManager>();
-        brakeSystem = gameObject.GetComponent<BrakeSystem>();
+        carBeh = carBehaviour;
     }
 
     public void MethodRespondingToTorque(InputAction.CallbackContext context)
     {
+        Debug.Log(context);
         accelerationF = context.ReadValue<float>();
         //Debug.Log($"{accelerationF}");
         //engineScript.InputAcceleration(accelerationF);
@@ -31,6 +29,7 @@ public class InputContext : MonoBehaviour
     public void MethodRespondingToTorque(float scrollBarValue)
     {
         accelerationF = scrollBarValue;
+        carBeh.CurrentEngine.IncomeAcceleration(accelerationF);
         //Debug.Log($"{accelerationF}");
         //engineScript.InputAcceleration(accelerationF);
     }

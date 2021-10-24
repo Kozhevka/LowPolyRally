@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/Scripts/InputSystem/InputSystemManager.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/LPRCore/Scripts/InputSystem/InputSystemManager.inputactions'
 
 using System;
 using System.Collections;
@@ -72,7 +72,7 @@ public class @InputSystemManager : IInputActionCollection, IDisposable
                     ""name"": """",
                     ""id"": ""07d9186b-2ba5-4532-8d7a-3b0c2d50f2cf"",
                     ""path"": ""<Gamepad>/rightTrigger"",
-                    ""interactions"": """",
+                    ""interactions"": ""Press"",
                     ""processors"": """",
                     ""groups"": ""PcXboxAndroid"",
                     ""action"": ""Acceleration"",

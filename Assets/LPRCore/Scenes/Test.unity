@@ -1260,6 +1260,7 @@ MonoBehaviour:
     type: 3}
   wheelPrefab: {fileID: 5716632410235713748, guid: aa5bbc01bc8b443488d97e849e56123e,
     type: 3}
+  engineSO: {fileID: 11400000, guid: 1a8fb01493700ea40aa82245d5b576aa, type: 2}
 --- !u!4 &1736028723
 Transform:
   m_ObjectHideFlags: 0
@@ -1268,7 +1269,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1736028721}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 26.327486, y: -10.83, z: 18.797674}
+  m_LocalPosition: {x: 26.327486, y: -19.47, z: 18.797674}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1738,6 +1739,7 @@ GameObject:
   - component: {fileID: 1874589859}
   - component: {fileID: 1874589858}
   - component: {fileID: 1874589860}
+  - component: {fileID: 1874589861}
   m_Layer: 0
   m_Name: Singleton
   m_TagString: Untagged
@@ -1869,6 +1871,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1874589861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874589857}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee433e5701487364ba3ebbdf04e1394f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  accelerationF: 0
 --- !u!1 &1951806232
 GameObject:
   m_ObjectHideFlags: 0
@@ -2448,7 +2463,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   torqueScrollbar: {fileID: 7148824596193122465}
-  inputContextScript: {fileID: 0}
+  inputContextScript: {fileID: 1874589861}
 --- !u!1 &7148824596357234796
 GameObject:
   m_ObjectHideFlags: 0
@@ -4086,7 +4101,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7148824597881763043}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 4.2, y: 2.64, z: 0}
+  m_LocalPosition: {x: 29.6, y: -19.7, z: 18.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7148824596425888062}
